@@ -1,7 +1,7 @@
 {
   "slots":[
-    {"vehiclePlateNumber":"MH29 1256", "slotNumber":2},
-    {"vehiclePlateNumber":"MH29 1256", "slotNumber":1},
-    {"vehiclePlateNumber":"MH29 1256", "slotNumber":3},
-    {"vehiclePlateNumber":"MH29 1233", "slotNumber":4}]
+    {"id":1,vehiclePlateNumber":"MH29 1256", "slotNumber":2},
+    {"id":2,"vehiclePlateNumber":"MH29 1256", "slotNumber":1},
+    {"id":3,"vehiclePlateNumber":"MH29 1256", "slotNumber":3},
+    {"id":4,"vehiclePlateNumber":"MH29 1233", "slotNumber":4}]
 }
